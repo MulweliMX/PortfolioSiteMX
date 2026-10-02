@@ -455,6 +455,19 @@ html {
   height: auto !important;
 }
 
+@media (max-width: 767px) {
+  .project-card {
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+  
+  .card-img-top {
+    padding: 15px !important;
+  }
+}
+
 .project-card-view {
   box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
   color: white !important;
