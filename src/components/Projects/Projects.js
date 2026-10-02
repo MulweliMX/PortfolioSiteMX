@@ -33,7 +33,7 @@ function Projects() {
               imgPath={IPM}
               isBlog={false}
               title="IPM"
-              description="Institute of People Management (IPM) website. A professional educational institution platform offering training programs, courses, and membership resources to professionals across South Africa."
+              description="IPM is a professional HR Body in South Africa offering training programs, courses, and membership resources to professionals across the region."
               link="https://ipm.co.za"
               liveLink="https://ipm.co.za"
             />
@@ -44,7 +44,7 @@ function Projects() {
               imgPath={VareonDoc}
               isBlog={false}
               title="Vareon Doc"
-              description="Vareon Doc is a document management solution that streamlines business processes, offering secure storage, efficient retrieval, and collaborative tools for organizations to manage their digital assets."
+              description="Vareon Doc is a compliance management system for South African enterprises, providing tools to ensure regulatory compliance and streamline business processes."
               link="https://vareondoc.co.za"
               liveLink="https://vareondoc.co.za"
             />
