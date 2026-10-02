@@ -1,0 +1,21 @@
+# Tech Stack Rules
+
+- **Framework**: React 18 with TypeScript for type safety and better developer experience
+- **Styling**: Tailwind CSS for utility-first styling with responsive design capabilities
+- **UI Components**: shadcn/ui library for pre-built, accessible components based on Radix UI
+- **Icons**: lucide-react for consistent, lightweight icon set
+- **Routing**: React Router v6 with routes centralized in src/App.tsx
+- **State Management**: React Context API and useReducer for global state; useState for local component state
+- **Form Handling**: React Hook Form with Zod validation for performant, type-safe forms
+- **HTTP Requests**: Fetch API or Axios for data fetching (avoid unnecessary libraries)
+- **Code Organization**: 
+  - Pages in src/pages/
+  - Components in src/components/
+  - Reusable components in src/components/ui/
+  - Custom hooks in src/hooks/
+  - Utilities in src/utils/
+- **Development Practices**: 
+  - ESLint and Prettier for code formatting
+  - Component-first approach with reusable, composable components
+  - Mobile-first responsive design
+  - Accessibility (a11y) first implementation
